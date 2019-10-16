@@ -1,0 +1,4 @@
+
+calculo desconhecido ????????? iniciado
+exibindo lixo de memoria de var na tela
+18.000000
